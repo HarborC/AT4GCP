@@ -14,7 +14,7 @@ This repo is an annotation tool for Ground Control Point, which is modified from
 ## How to install it
 
     cd AT4GCP/
-    pip install -y requirements.txt 
+    pip install -r requirements.txt 
 
 ## How to use it
 
