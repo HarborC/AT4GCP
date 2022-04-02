@@ -1,0 +1,24 @@
+{
+    "points": [
+        {
+            "id": "1",
+            "observations": [
+                {
+                    "projection": [
+                        2768.7298427567753,
+                        1568.8348946135834
+                    ],
+                    "shot_id": "sequence_1/1.jpg"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "observations": []
+        },
+        {
+            "id": "0",
+            "observations": []
+        }
+    ]
+}
